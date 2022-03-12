@@ -14,3 +14,7 @@ expo install @react-navigation/native-stack
 
 - Criar um componente com base em um templete em um arquivo criado em branco:
 rnfunc (Tab)
+
+- Instalar a biblioteca de animações:
+https://github.com/oblador/react-native-animatable
+expo install react-native-animatable
