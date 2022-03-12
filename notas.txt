@@ -1,0 +1,11 @@
+- Instalar o expo cli:
+ sudo npm install -g expo-cli
+
+- Criar o projeto:
+expo init loginanimado
+
+- Instalar o React Navigation:
+https://reactnavigation.org/
+expo install @react-navigation/native
+expo install react-native-screens react-native-safe-area-context
+
